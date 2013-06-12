@@ -1,0 +1,20 @@
+Hello.
+Summer funsies project
+-- --------------- purpose -------------------- --
+cooperative programming
+ajax practice
+
+-- ---------------- system -------------------- --
+php
+ajax/jquery
+txt files
+mysql db
+
+-- ---------------- docs ---------------------- --
+each directory has a .notes file explaining the main files.
+
+-- --------------- the plan ------------------- --
+some php file management
+db file logging
+ajax file calls
+some user client stuff
